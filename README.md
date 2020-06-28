@@ -5,3 +5,5 @@
 ### [LazyHStack](https://github.com/daisukenagata/SwiftUI2.0/issues/1)
 
 ### [Scrollviewreader](https://github.com/daisukenagata/SwiftUI2.0/issues/2)
+
+### [LazyVGrid](https://github.com/daisukenagata/SwiftUI2.0/issues/4)
