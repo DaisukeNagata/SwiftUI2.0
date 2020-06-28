@@ -11,3 +11,5 @@
 ### [ViewModifier_navigationTitle](https://github.com/daisukenagata/SwiftUI2.0/issues/5)
 
 ### [Outlinegroup](https://github.com/daisukenagata/SwiftUI2.0/issues/6)
+
+### [Disclosuregroup](https://github.com/daisukenagata/SwiftUI2.0/issues/7)
