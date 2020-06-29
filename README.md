@@ -1,4 +1,4 @@
-# SwiftUI2.0
+# SwiftUI2.0 Xcode12.0~
 
 ### [LazyVStack](https://github.com/daisukenagata/SwiftUI2.0/issues/3)
 
