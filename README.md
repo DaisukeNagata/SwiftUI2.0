@@ -13,3 +13,5 @@
 ### [Outlinegroup](https://github.com/daisukenagata/SwiftUI2.0/issues/6)
 
 ### [Disclosuregroup](https://github.com/daisukenagata/SwiftUI2.0/issues/7)
+
+### [App clip](https://github.com/daisukenagata/SwiftUI2.0/issues/8)
