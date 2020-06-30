@@ -15,3 +15,5 @@
 ### [Disclosuregroup](https://github.com/daisukenagata/SwiftUI2.0/issues/7)
 
 ### [App clip](https://github.com/daisukenagata/SwiftUI2.0/issues/8)
+
+### [View Modifiers_NewAPI](https://github.com/daisukenagata/SwiftUI2.0/issues/9)
