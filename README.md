@@ -17,3 +17,5 @@
 ### [App clip](https://github.com/daisukenagata/SwiftUI2.0/issues/8)
 
 ### [View Modifiers_NewAPI](https://github.com/daisukenagata/SwiftUI2.0/issues/9)
+
+### [State Object](https://github.com/daisukenagata/SwiftUI2.0/issues/10)
